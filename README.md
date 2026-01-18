@@ -1,7 +1,9 @@
 # Decode the Morse code, advanced — Solution
 
-This repository contains a personal solution to the Codewars kata "Decode the Morse code, advanced".  
+This repository contains a personal of Amer Abduljalil solution to the Codewars kata "Decode the Morse code, advanced".  
 Kata: https://www.codewars.com/kata/54b72c16cd7f5154e9000457
+
+profile : https://www.codewars.com/users/AmerYasser
 
 ## Problem (brief)
 Decode a string of Morse code into readable text. The "advanced" variant requires handling extra spacing between letters and words (variable numbers of spaces), trimming leading/trailing spaces, and properly reconstructing words and letters.
